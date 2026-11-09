@@ -12,4 +12,4 @@ Explore transcripts in an interactive t-SNE plot (TF-IDF features)
 
 Training: Hugging Face Transformers and PyTorch, with early stopping and learning-rate scheduling. Topic clusters (20+) were found by analysing sentence embeddings with cosine similarity and t-SNE.
 
-# Topics: nlp, roberta, huggingface, transformers, pytorch, text-classification, streamlit, tsne, sports-analytics
+Topics: nlp, roberta, huggingface, transformers, pytorch, text-classification, streamlit, tsne, sports-analytics
