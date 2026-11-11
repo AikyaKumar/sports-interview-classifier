@@ -1,0 +1,19 @@
+AI Tool Declaration
+
+During the development of this project, I used various AI tools and resources to support learning, code development, and documentation. Below is a declaration of the tools and how they were used:
+
+1. ChatGPT (OpenAI)
+   I used ChatGPT to help understand model behavior, debug code. It was also helpful in simplifying technical content and writing Streamlit integration code.
+
+2. Google Gemini (Bard)
+   I occasionally used Google Gemini to cross-check certain coding questions, general concepts, and compare advice on model selection and optimization.
+
+3. Google Search
+   I used Google Search to find documentation for Python libraries such as Hugging Face Transformers, PyTorch, and Streamlit. It was also helpful in searching for error solutions and best practices.
+
+4. Class Assignment Notebooks
+   I referred to the Colab notebooks provided during class for understanding how to structure the modeling pipeline, use BERT-based models, and apply techniques like t-SNE visualization. These were helpful as a foundation for my project.
+
+All code written is either self-authored, adapted from class materials, or generated with the help of the AI tools listed above. Any borrowed content was reviewed and modified to fit the specific needs of this project.
+
+Aikya Sira Kumar
